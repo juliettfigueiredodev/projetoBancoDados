@@ -3,8 +3,6 @@ from sqlalchemy.orm import DeclarativeBase, sessionmaker
 
 # ==============================
 # CONFIGURAÇÃO DA CONEXÃO
-# Altere os valores abaixo com
-# suas credenciais do PostgreSQL
 # ==============================
 DB_HOST = "localhost"
 DB_PORT = 5432
