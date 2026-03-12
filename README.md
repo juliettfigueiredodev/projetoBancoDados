@@ -1,4 +1,4 @@
-# Hotel ORM — SQLAlchemy + PostgreSQL
+# Sistema para Hotel com ORM — SQLAlchemy + PostgreSQL
 
 Projeto Python que conecta ao banco `sistema_hotel` usando SQLAlchemy como ORM.
 
