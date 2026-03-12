@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Abra o arquivo `database.py` e edite a linha:
 
 ```python
-DB_PASSWORD = "1234"   # <- coloque sua senha do PostgreSQL aqui
+DB_PASSWORD = "1234"
 ```
 
 ---
